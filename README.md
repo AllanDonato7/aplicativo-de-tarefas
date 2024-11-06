@@ -13,5 +13,5 @@ Este é um projeto de aplicativo de tarefas desenvolvido em Python, projetado pa
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação principal.
-- **Tkinter** (opcional): Para a criação de uma interface gráfica, caso o aplicativo seja destinado a um ambiente desktop.
-- **SQLite** (opcional): Banco de dados local para armazenar tarefas persistentemente.
+- **Tkinter**: Para a criação de uma interface gráfica, caso o aplicativo seja destinado a um ambiente desktop.
+- **SQLite**: Banco de dados local para armazenar tarefas persistentemente.
