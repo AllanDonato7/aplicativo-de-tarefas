@@ -14,4 +14,3 @@ Este é um projeto de aplicativo de tarefas desenvolvido em Python, projetado pa
 
 - **Python**: Linguagem de programação principal.
 - **Tkinter**: Para a criação de uma interface gráfica, caso o aplicativo seja destinado a um ambiente desktop.
-- **SQLite**: Banco de dados local para armazenar tarefas persistentemente.
